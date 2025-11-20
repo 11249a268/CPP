@@ -15,3 +15,11 @@ int main() {
     n.display();
     return 0;
 }
+Output:
+Enter a number: 9
+Incremented Value: 10
+
+
+Result:
+Unary operator overloading implemented successfully.
+Operator function increased the value as expected.
