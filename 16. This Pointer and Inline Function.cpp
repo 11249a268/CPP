@@ -13,3 +13,9 @@ int main() {
     n.show();
     return 0;
 }
+output :
+a = 10, b = 20
+Sum = 30
+
+
+Result: the program successfully demonstrates the use of **this pointer** and **inline function** in C++.
