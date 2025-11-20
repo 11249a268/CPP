@@ -22,3 +22,12 @@ int main() {
     d.display();
     return 0;
 }
+Output:
+Enter value of a: 5
+Enter value of b: 7
+Sum = 12
+
+
+Result:
+Single public inheritance was successfully implemented.
+Derived class accessed base members as per visibility rules.
