@@ -16,3 +16,15 @@ int main() {
     c2.display();
     return 0;
 }
+Output:
+Integer Calculation 
+Numbers: 10 and 5
+Addition = 15
+Subtraction = 5
+
+Float Calculation 
+Numbers: 10.5 and 4.2
+Addition = 14.7
+Subtraction = 6.3
+
+Result: The program successfully implements the use of a class template in C++.**
