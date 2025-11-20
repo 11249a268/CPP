@@ -27,3 +27,16 @@ int main() {
     obj.display();
     return 0;
 }
+Output:
+Enter Roll Number: 102
+Enter marks in two subjects: 85 90
+Roll Number: 102
+Total Marks: 175
+
+
+Result:
+Multilevel inheritance was implemented successfully.
+Data was transferred and accessed across multiple levels of inheritance
+
+
+ 
