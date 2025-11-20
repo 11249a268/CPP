@@ -14,3 +14,11 @@ int main() {
     delete[] arr;
     return 0;
 }
+Output:
+Integer value: 50
+Float value: 20.5
+
+
+Result:
+Dynamic memory was allocated and deallocated successfully.
+new and delete operators worked as expected.
