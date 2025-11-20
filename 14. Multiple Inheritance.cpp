@@ -27,3 +27,15 @@ int main() {
     obj.display();
     return 0;
 }
+Output:
+Enter Roll Number: 101
+Enter marks of two subjects: 78 89
+Roll Number: 101
+Total Marks: 167
+
+
+Result:
+Multiple inheritance was implemented successfully.
+The derived class inherited properties from two base classes.
+
+       
