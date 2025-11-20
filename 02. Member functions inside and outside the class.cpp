@@ -23,3 +23,8 @@ int main() {
     cout << "Area: " << r.area() << endl;
     return 0;
 }
+Output:
+Area: 50
+
+Result: 
+The program successfully calculates the area of a rectangle using a class and member functions.
