@@ -19,3 +19,12 @@ int main() {
     c.area();
     return 0;
 }
+Output:
+Area of Circle = 78.5
+
+Result:
+Successfully demonstrated the use of a **pure virtual function** in C++.
+
+    
+
+   
