@@ -26,3 +26,10 @@ int main() {
     show(a, b);
     return 0;
 }
+Output:
+Sum = 30
+
+
+Result:
+Friend function accessed private data of both classes.
+The sum was calculated successfully.
