@@ -46,3 +46,15 @@ int main() {
 
     return 0;
 }
+Output:
+Default Constructor called
+Parameterized Constructor called
+Copy Constructor called
+Volume of b2: 100
+Volume of b3: 100
+Destructor called
+Destructor called
+Destructor called
+
+Result: 
+The program successfully demonstrates different types of constructors and a destructor in C++, showing how object creation, copying, and destruction work, along with volume calculation using member functions.
